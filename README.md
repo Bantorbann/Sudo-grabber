@@ -106,10 +106,4 @@ this to your victims.😈
 
 <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
   
-### GUI
 
-
-
-### Star Graph
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Smug246/Luna-Grabber&type=Date)]
